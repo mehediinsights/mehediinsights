@@ -20,10 +20,17 @@ My work connects **engineering with business operations**: understand the real p
 
 These are links to public websites and portfolio breakdowns—not claims that their complete proprietary source code is published on GitHub. For Mohammadpur News, the English experience uses **API-powered translation**, not manually authored translations for every article.
 
-## More implementation and design examples
+## Additional buyer-relevant case studies
+
+These extend the four flagship projects above. The [full case-study collection](https://github.com/mehediinsights/project-case-studies) documents all seven with business context, implementation focus and evidence boundaries.
+
+- **[EarnForAll](https://mehedihasan.work/projects/#earnforall)** — membership onboarding, account/dashboard experiences, referral and wallet-related interface workflows. [Public website](https://earnforall.com/). *Project scope only; no unverified earnings or payout claims.*
+- **[Night Vision Insights](https://mehedihasan.work/projects/nightvision/)** — WordPress-based niche publishing, helpful product content architecture, technical/on-page SEO and responsive editorial UX. *No invented traffic or ranking increases.*
+- **[Performance Marketing & Attribution](https://mehedihasan.work/performance-marketing/)** — click-ID tracking, server-to-server conversion postbacks, BeMob-style workflows, funnel testing and source-level decisions. *A documented technical workflow, not a claimed audited profit result.*
+
+## Other publishing work & independent design concepts
 
 - **[OGROPOTRO](https://mehedihasan.work/projects/ogropotro/)** — Bengali editorial platform, structured publishing and news-focused UX.
-- **[Night Vision Insights](https://mehedihasan.work/projects/nightvision/)** — specialist content architecture, affiliate publishing and technical/on-page SEO.
 - **[Elegant Premium](https://mehedihasan.work/elegant-premium-website-redesign/)** — independent luxury fragrance e-commerce **design concept**, with cinematic visuals and product-discovery UX.
 - **[UnifiedOrders](https://mehedihasan.work/unifiedorders-concept/)** — independent multi-channel order-management SaaS **UI/UX concept**, not a live order-processing product.
 - **[SolarShop hero demo](https://mehediinsights.github.io/solarshop-hero-demo/)** — public responsive front-end demonstration; [source repository](https://github.com/mehediinsights/solarshop-hero-demo).
